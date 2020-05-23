@@ -2,6 +2,11 @@
 
 As the name itself says (Climatic app). A app which fetches the weather report of the entered location by making a http call to the json api, only required information is parsed and displayed to the user. It gets the weather of NEW DELHI on opening the app as the default city.
 
+## screenshots
+<img src="screenshots/climar8.jpeg" width="250">|<img src="screenshots/climar3.jpeg" width="250">|<img src="screenshots/climar0.jpeg" width="250">
+<img src="screenshots/climar1.jpeg" width="250">|<img src="screenshots/climar2.jpeg" width="250">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
