@@ -1,6 +1,6 @@
 # climatic_app
 
-A new Flutter project.
+As the name itself says (Climatic app). A app which fetches the weather report of the entered location by making a http call to the json api, only required information is parsed and displayed to the user. It gets the weather of NEW DELHI on opening the app as the default city.
 
 ## Getting Started
 
